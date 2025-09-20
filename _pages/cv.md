@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /Resume/
+title: "CV"
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /Resume
+  - /resume
 ---
 
-<embed src="{{ '/files/cv.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px" />
-
+{% include base_path %}
