@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv-json/
+title: "Resume"
+permalink: /Resume-json/
 author_profile: false
 redirect_from:
-  - /resume-json
+  - /Resume-json
 ---
 
 {% include base_path %}
