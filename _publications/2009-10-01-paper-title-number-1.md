@@ -1,3 +1,12 @@
+---
+title: "SLRNet: A Real-Time LSTM-Based Sign Language Recognition System"
+collection: publications
+permalink: /publications/2025-06-11-SLRNet
+date: 2025-06-11
+venue: "arXiv preprint"
+paperurl: "https://arxiv.org/abs/2506.11154"
+---
+
 ## [SLRNet: A Real-Time LSTM-Based Sign Language Recognition System](https://arxiv.org/abs/2506.11154)
 
 *[Submitted on Wed, 11 Jun 2025 14:30:47 UTC (1,933 KB)]*
