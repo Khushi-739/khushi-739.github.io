@@ -6,30 +6,40 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my articles on 
+    <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<!-- Manual Publication Entry -->
+<div class="publication">
+  <h2>
+    <a href="https://arxiv.org/abs/2506.11154">
+      SLRNet: A Real-Time LSTM-Based Sign Language Recognition System
+    </a>
+  </h2>
+  <p><em>Submitted on Wed, 11 Jun 2025 14:30:47 UTC (1,933 KB)</em></p>
 
+  <p>
+    Sign Language Recognition (SLR) plays a crucial role in bridging the communication gap 
+    between the hearing-impaired community and society. This paper introduces 
+    <strong>SLRNet</strong>, a real-time webcam-based ASL recognition system using 
+    MediaPipe Holistic and Long Short-Term Memory (LSTM) networks. The model processes 
+    video streams to recognize both ASL alphabet letters and functional words. With a 
+    validation accuracy of <strong>86.7%</strong>, SLRNet demonstrates the feasibility 
+    of inclusive, hardware-independent gesture recognition.
+  </p>
 
+  <hr />
+
+  <p><strong>Comments:</strong> 9 pages, 5 figures, includes experimental results.  
+  Code available at: <a href="https://github.com/Khushi-739/SLRNet">GitHub</a></p>
+
+  <p><strong>Subjects:</strong> Computer Vision and Pattern Recognition (cs.CV)<br/>
+  <strong>MSC classes:</strong> 68T07 (Artificial Intelligence), 68U10 (Image Processing)</p>
+
+  <p><em>arXiv preprint arXiv:2506.11154.</em></p>
+</div>
