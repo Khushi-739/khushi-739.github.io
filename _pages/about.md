@@ -17,7 +17,14 @@ My goal is to contribute to research that bridges AI theory and real-world impac
 
 News
 ------
-May 2025: My 1st research paper is published in arXiv, “SLRNet: A Real-Time LSTM-Based Sign Language Recognition System” <span style="color:blue;">https://arxiv.org/abs/2506.11154</span>
+June 2025: My 1st research paper is published in arXiv, “SLRNet: A Real-Time LSTM-Based Sign Language Recognition System”  
+
+<iframe src="https://arxiv.org/abs/2506.11154" 
+        width="100%" 
+        height="600px" 
+        style="border:1px solid #ccc;">
+</iframe>
+
 
 
 Getting started
