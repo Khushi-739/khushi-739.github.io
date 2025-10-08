@@ -17,7 +17,7 @@ My goal is to contribute to research that bridges AI theory and real-world impac
 
 News
 ------
-June 2025: My 1st research paper is published in arXiv, “SLRNet: A Real-Time LSTM-Based Sign Language Recognition System” <span style="color:blue;"><a href="https://arxiv.org/abs/2506.11154" target="_blank">https://arxiv.org/abs/2506.11154</a></span>.
+June 2025: My 1st research paper is published in arXiv, “SLRNet: A Real-Time LSTM-Based Sign Language Recognition System” code and paper is available <span style="color:blue;"><a href="https://arxiv.org/abs/2506.11154" target="_blank">here</a></span>.
 
 March 2025: Started a **research collaboration** with **Dr. Clément Coïc** on **Julia SciML open-source contributions**.
 
