@@ -1,15 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a senior undergraduate pursuing a Bachelor of Engineering in Artificial Intelligence and Data Science at the University of Mumbai. I have also completed a Technical High School Diploma in Computer Engineering from K. J. Somaiya University, Mumbai.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research interests lie at the intersection of Machine Learning, Computer Vision, and Medical AI, with a growing focus on AI-driven automation and scientific computing. I have previously collaborated, advised by Prof. Min Xu at Carnegie Mellon University, in Xu Lab, working under the guidance of Xiangrui (Taylor) Zeng on segmentation map registration for MRI images. Additionally, I collaborated with Dr. Clément Coïc (Siemens Healthineers) on modeling robotic systems using Julia SciML.
+
+My goal is to contribute to research that bridges AI theory and real-world impact through interdisciplinary collaboration. <p style="color:blue;">I am always open to research discussions and collaborative opportunities feel free to reach out via email if our interests align.</p>
+
+<p style="color:red;">I am on the job market this year. I would be happy to discuss any opportunities that may be a good fit.</p>
 
 A data-driven personal website
 ======
