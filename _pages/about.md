@@ -17,22 +17,14 @@ My goal is to contribute to research that bridges AI theory and real-world impac
 
 News
 ------
-June 2025: My 1st research paper is published in arXiv, “SLRNet: A Real-Time LSTM-Based Sign Language Recognition System” code and paper is available <span style="color:blue;"><a href="https://arxiv.org/abs/2506.11154" target="_blank">here</a></span>.
+**June 2025**: My 1st research paper is published in arXiv, “SLRNet: A Real-Time LSTM-Based Sign Language Recognition System” code and paper is available <span style="color:blue;"><a href="https://arxiv.org/abs/2506.11154" target="_blank">here</a></span>.
 
-March 2025: Started a research collaboration with **Dr. Clément Coïc** on Julia SciML open-source contributions.
+**March 2025**: Started a research collaboration with Dr. Clément Coïc on Julia SciML open-source contributions.
 
+2025 Publications
+------
+(/images/methodology_flowchart.png)
 
-
-
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
