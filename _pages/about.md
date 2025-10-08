@@ -26,9 +26,8 @@ News
 ![Editing a Markdown file for a talk](/images/methodology_flowchart.png)
 <a href="https://arxiv.org/abs/2506.11154">SLRNet: A Real-Time LSTM-Based Sign Language Recognition System</a><br>
 arXiv 2025<br>
-Author: Sharvari Kamble\\
-\\
-
+Author: Sharvari Kamble<br>
+<br>
 A real-time webcam-based ASL recognition system using MediaPipe Holistic and LSTM networks achieves 86.7% validation accuracy for letters and functional words, demonstrating feasible, hardware-independent sign language recognition.
 
 
