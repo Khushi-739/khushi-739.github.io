@@ -13,7 +13,7 @@ My research interests lie at the intersection of Machine Learning, Computer Visi
 
 My goal is to contribute to research that bridges AI theory and real-world impact through interdisciplinary collaboration. <span style="color:blue;">I am always open to research discussions and collaborative opportunities, feel free to reach out via email if our interests align.</span>
 
-<span style="color:red;">I am on the job market this year. I would be happy to discuss any opportunities that may be a good fit.</span>
+<span style="color:red;">I am on the job market this year and also considering direct PhD positions. I would be happy to discuss any opportunities that may be a good fit.</span>
 
 News
 ------
@@ -24,6 +24,11 @@ News
 2025 Publications
 ------
 ![Editing a Markdown file for a talk](/images/methodology_flowchart.png)
+<a href="https://arxiv.org/abs/2506.11154">SLRNet: A Real-Time LSTM-Based Sign Language Recognition System</a>
+arXiv 2025
+Author: Sharvari Kamble
+
+A real-time webcam-based ASL recognition system using MediaPipe Holistic and LSTM networks achieves 86.7% validation accuracy for letters and functional words, demonstrating feasible, hardware-independent sign language recognition.
 
 
 Site-wide configuration
