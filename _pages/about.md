@@ -23,7 +23,7 @@ News
 
 2025 Publications
 ------
-(/images/methodology_flowchart.png)
+![Editing a Markdown file for a talk](/images/methodology_flowchart.png)
 
 
 Site-wide configuration
