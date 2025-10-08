@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate pursuing a Bachelor of Engineering in Artificial Intelligence and Data Science at the University of Mumbai. I have also completed a Technical High School Diploma in Computer Engineering from K. J. Somaiya University, Mumbai.
+I am a senior undergraduate pursuing a Bachelor of Engineering in Artificial Intelligence and Data Science at the University of Mumbai. I have also completed a Technical High School Diploma in Computer Engineering from K. J. Somaiya Polytechnic, Mumbai.
 
 My research interests lie at the intersection of Machine Learning, Computer Vision, and Medical AI, with a growing focus on AI-driven automation and scientific computing. I have previously collaborated, advised by Prof. Min Xu at Carnegie Mellon University, in Xu Lab, working under the guidance of Xiangrui (Taylor) Zeng on segmentation map registration for MRI images. Additionally, I collaborated with Dr. Clément Coïc (Siemens Healthineers) on modeling robotic systems using Julia SciML.
 
-My goal is to contribute to research that bridges AI theory and real-world impact through interdisciplinary collaboration. <p style="color:blue;">I am always open to research discussions and collaborative opportunities feel free to reach out via email if our interests align.</p>
+My goal is to contribute to research that bridges AI theory and real-world impact through interdisciplinary collaboration. 
+<p style="color:blue;">I am always open to research discussions and collaborative opportunities feel free to reach out via email if our interests align.</p>
 
 <p style="color:red;">I am on the job market this year. I would be happy to discuss any opportunities that may be a good fit.</p>
 
