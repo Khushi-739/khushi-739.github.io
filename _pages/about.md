@@ -21,6 +21,8 @@ News
 
 **March 2025**: Started a research collaboration with Dr. Clément Coïc on Julia SciML open-source contribution project.
 
+**October 2023**: Received project sponsorship worth approximately $300 USD from Mangal Agro, Buldhana for the Agricultural Drone project. 
+
 2025 Publications
 ------
 ![Editing a Markdown file for a talk](/images/methodology_flowchart.png)
