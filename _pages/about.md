@@ -37,7 +37,7 @@ Education
 B.E. in Artificial Intelligence and Data Science • Aug. 2023 - June 2026, GPA: 8.99/10.00
 <br>
 **K J Somaiya Polytechnic,** India <br>
-High School Technical Diploma in Computer Engineering • Jan. 2020 - June 2023, Percentage: 88.9
+High School Technical Diploma in Computer Engineering • Jan. 2020 - June 2023, Percentage: 88.9/100
 
 
 
