@@ -41,3 +41,18 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Force light theme */
+:root {
+  color-scheme: light;
+}
+
+body {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+.page__content,
+.archive,
+.author__content {
+  background-color: #ffffff !important;
+}
