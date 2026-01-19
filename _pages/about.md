@@ -17,17 +17,18 @@ My goal is to contribute to research that bridges AI theory and real-world impac
 
 News
 ------
-**[December 2025]**: <span style="color:blue;"><a href="https://arxiv.org/abs/2601.06046" target="_blank">**ISMS-CR**</a> is available on arXiv.</span>.
 
-**[December 2025]**: I served as a reviewer for the journal **IET Computer Vision (Wiley–IET)**.
+**[December 2025]**: <span style="color:blue;"><a href="https://arxiv.org/abs/2601.06046" target="_blank" style="text-decoration:none; color:blue;"> ISMS-CR</a> is available on arXiv.</span>
 
-**[November 2025]**: Started a research collaboration with <span style="color:blue;"><a href="https://www.linkedin.com/in/hyunjae-gil-0abb45195/" target="_blank">**Prof. Hyunjae Gil** <a> on <span style="color:blue;"><a href="https://github.com/Khushi-739/vr-playground-handmapping" target="_blank">VR Playground Handmapping project.</span>
+**[December 2025]**: I served as a reviewer for the journal IET Computer Vision (Wiley–IET).
 
-**[June 2025]**: <span style="color:blue;"><a href="https://arxiv.org/abs/2506.11154" target="_blank">**SLRNet**</a> is available on arXiv.</span>.
+**[November 2025]**: Started a research collaboration with <span style="color:blue;"><a href="https://www.linkedin.com/in/hyunjae-gil-0abb45195/" target="_blank" style="text-decoration:none; color:blue;">Prof. Hyunjae Gil<a> on <span style="color:blue;"><a href="https://github.com/Khushi-739/vr-playground-handmapping" target="_blank" style="text-decoration:none; color:blue;">VR Playground Handmapping project.</span>
 
-**[March 2025]**: Started a research collaboration with <span style="color:blue;"><a href="https://www.linkedin.com/in/clementcoic/" target="_blank">**Dr. Clément Coïc** <a> on Julia SciML open-source contribution project.
+**[June 2025]**: <span style="color:blue;"><a href="https://arxiv.org/abs/2506.11154" target="_blank" style="text-decoration:none; color:blue;">SLRNet</a> is available on arXiv.</span>
 
-**[October 2023]**: Secured **~USD 300** project sponsorship from **Mangal Agro for an Agricultural Drone project**.
+**[March 2025]**: Started a research collaboration with <span style="color:blue;"><a href="https://www.linkedin.com/in/clementcoic/" target="_blank" style="text-decoration:none; color:blue;">Dr. Clément Coïc <a> on Julia SciML open-source contribution project.
+
+**[October 2023]**: Secured ~USD 300 project sponsorship from Mangal Agro for an Agricultural Drone project.
 
 2025 Publications
 ------
