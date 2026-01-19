@@ -37,10 +37,10 @@ News
 <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
 
   <!-- Left: Image -->
-  <div style="flex:0 0 220px;">
+  <div style="flex:0 0 200px;">
     <img src="/images/methodology_flowchart.png"
          alt="SLRNet overview"
-         style="width:200%; border-radius:6px;">
+         style="width:100%; border-radius:6px;">
   </div>
 
   <!-- Right: Text -->
@@ -67,14 +67,18 @@ News
          target="_blank"
          style="text-decoration:none; color:#1a73e8;">
         [Paper]
+      </a>
       <a href="https://github.com/Khushi-739/SLRNet"
          target="_blank"
-         style="text-decoration:none; color:#1a73e8;">
+         style="text-decoration:none; color:#1a73e8; margin-left:8px;">
         [Code]
       </a>
     </p>
+
   </div>
 </div>
+
+
 
 
 Education
