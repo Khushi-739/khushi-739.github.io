@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+ 
 I am a senior undergraduate pursuing a Bachelor of Engineering in Artificial Intelligence and Data Science at the University of Mumbai. I have also completed a Technical High School Diploma in Computer Engineering from K. J. Somaiya Polytechnic, Mumbai.
 
 My research interests lie at the intersection of Machine Learning, Computer Vision, and Medical AI, with a growing focus on AI-driven automation and scientific computing. I have previously collaborated, advised by Prof. Min Xu at Carnegie Mellon University, in Xu Lab, working under the guidance of Xiangrui (Taylor) Zeng on segmentation map registration for MRI images. Additionally, I collaborated with Dr. Clément Coïc (Siemens Healthineers) on modeling robotic systems using Julia SciML.
