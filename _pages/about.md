@@ -34,20 +34,21 @@ News
 
 <h2>2025 Publications</h2>
 
+<!-- ================= SLRNet ================= -->
 <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
 
-  <!-- Left: Image -->
+  <!-- Image -->
   <div style="flex:0 0 200px;">
     <img src="/images/methodology_flowchart.png"
          alt="SLRNet overview"
-         style="width:100%; border-radius:6px;">
+         style="width:200px; height:140px; object-fit:contain; border-radius:6px;">
   </div>
 
-  <!-- Right: Text -->
+  <!-- Text -->
   <div style="flex:1;">
 
     <h3 style="margin:0 0 6px 0; font-weight:600;">
-        SLRNet: A Real-Time LSTM-Based Sign Language Recognition System
+      SLRNet: A Real-Time LSTM-Based Sign Language Recognition System
     </h3>
 
     <p style="margin:0; font-style:italic;">
@@ -70,22 +71,25 @@ News
         [Code]
       </a>
     </p>
+
   </div>
 </div>
-    <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
 
-  <!-- Left: Image -->
+<!-- ================= ISMS-CR ================= -->
+<div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
+
+  <!-- Image -->
   <div style="flex:0 0 200px;">
     <img src="/images/system_architecture.png"
          alt="ISMS-CR system architecture"
-         style="width:100%; border-radius:6px;">
+         style="width:200px; height:140px; object-fit:contain; border-radius:6px;">
   </div>
 
-  <!-- Right: Text -->
+  <!-- Text -->
   <div style="flex:1;">
 
     <h3 style="margin:0 0 6px 0; font-weight:600;">
-        ISMS-CR: Integrated Safety Management System for Critical Infrastructure
+      ISMS-CR: Integrated Safety Management System for Critical Infrastructure
     </h3>
 
     <p style="margin:0; font-style:italic;">
