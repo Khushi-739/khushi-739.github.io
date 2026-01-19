@@ -40,7 +40,7 @@ News
   <div style="flex:0 0 220px;">
     <img src="/images/methodology_flowchart.png"
          alt="SLRNet overview"
-         style="width:100%; border-radius:6px;">
+         style="width:150%; border-radius:6px;">
   </div>
 
   <!-- Right: Text -->
@@ -69,14 +69,13 @@ News
         [Paper]
       </a>
     </p>
-
-    <p style="margin-top:8px;">
-      A real-time webcam-based ASL recognition system using MediaPipe Holistic
-      and LSTM networks, achieving <b>86.7% validation accuracy</b> for letters
-      and functional words, demonstrating hardware-independent sign language
-      recognition.
+    <p style="margin:6px 0;">
+      <a href="https://github.com/Khushi-739/SLRNet"
+         target="_blank"
+         style="text-decoration:none; color:#1a73e8;">
+        [Code]
+      </a>
     </p>
-
   </div>
 </div>
 
