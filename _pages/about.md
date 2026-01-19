@@ -47,15 +47,11 @@ News
   <div style="flex:1;">
 
     <h3 style="margin:0 0 6px 0; font-weight:600;">
-      <a href="https://arxiv.org/abs/2506.11154"
-         target="_blank"
-         style="text-decoration:none; color:#1a73e8;">
         SLRNet: A Real-Time LSTM-Based Sign Language Recognition System
-      </a>
     </h3>
 
     <p style="margin:0; font-style:italic;">
-      Sharvari Kamble
+      <b>Sharvari Kamble</b>
     </p>
 
     <p style="margin:6px 0;">
@@ -75,8 +71,46 @@ News
       </a>
     </p>
 
+    <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
+
+  <!-- Left: Image -->
+  <div style="flex:0 0 200px;">
+    <img src="/images/system_architecture.png"
+         alt="ISMS-CR system architecture"
+         style="width:100%; border-radius:6px;">
+  </div>
+
+  <!-- Right: Text -->
+  <div style="flex:1;">
+
+    <h3 style="margin:0 0 6px 0; font-weight:600;">
+        ISMS-CR: Integrated Safety Management System for Critical Infrastructure
+    </h3>
+
+    <p style="margin:0; font-style:italic;">
+      <b>Sharvari Kamble</b>, Arjun Dangle, Gargi Khurud, Om Kendre, Swati Bhatt
+    </p>
+
+    <p style="margin:6px 0;">
+      arXiv preprint, 2025
+    </p>
+
+    <p style="margin:6px 0;">
+      <a href="https://arxiv.org/abs/2601.06046"
+         target="_blank"
+         style="text-decoration:none; color:#1a73e8;">
+        [Paper]
+      </a>
+      <a href="https://github.com/Khushi-739/SLRNet"
+         target="_blank"
+         style="text-decoration:none; color:#1a73e8; margin-left:8px;">
+        [Code]
+      </a>
+    </p>
+
   </div>
 </div>
+
 
 
 
