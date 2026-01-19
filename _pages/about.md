@@ -18,7 +18,7 @@ My goal is to contribute to research that bridges AI theory and real-world impac
 News
 ------
 
-**[December 2025]**: <span style="color:blue;"><a href="https://arxiv.org/abs/2601.06046" target="_blank" style="text-decoration:none; color:blue;"> ISMS-CR</a> is available on arXiv.</span>
+**[December 2025]**: <span style="color:blue;"><a href="https://arxiv.org/abs/2601.06046" target="_blank" style="text-decoration:none; color:blue;"> ISMS-CR</a></span> is available on arXiv.
 
 **[December 2025]**: I served as a reviewer for the journal IET Computer Vision (Wiley–IET).
 
