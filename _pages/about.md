@@ -29,17 +29,56 @@ News
 
 **[March 2025]**: Started a research collaboration with <span style="color:blue;"><a href="https://www.linkedin.com/in/clementcoic/" target="_blank" style="text-decoration:none; color:blue;">Dr. Clément Coïc</a></span> on a Julia SciML open-source contribution project.
 
-**[October 2023]**: Secured ~USD 300 project sponsorship from **Mangal Agro** for an Agricultural Drone project.
+**[October 2023]**: Secured ~USD 300 project sponsorship from Mangal Agro for an Agricultural Drone project.
 
 
-2025 Publications
-------
-![Editing a Markdown file for a talk](/images/methodology_flowchart.png)
-<a href="https://arxiv.org/abs/2506.11154">SLRNet: A Real-Time LSTM-Based Sign Language Recognition System</a><br>
-arXiv 2025<br>
-Author: Sharvari Kamble<br>
-<br>
-A real-time webcam-based ASL recognition system using MediaPipe Holistic and LSTM networks achieves 86.7% validation accuracy for letters and functional words, demonstrating feasible, hardware-independent sign language recognition.
+<h2>2025 Publications</h2>
+
+<div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
+
+  <!-- Left: Image -->
+  <div style="flex:0 0 220px;">
+    <img src="/images/methodology_flowchart.png"
+         alt="SLRNet overview"
+         style="width:100%; border-radius:6px;">
+  </div>
+
+  <!-- Right: Text -->
+  <div style="flex:1;">
+
+    <h3 style="margin:0 0 6px 0; font-weight:600;">
+      <a href="https://arxiv.org/abs/2506.11154"
+         target="_blank"
+         style="text-decoration:none; color:#1a73e8;">
+        SLRNet: A Real-Time LSTM-Based Sign Language Recognition System
+      </a>
+    </h3>
+
+    <p style="margin:0; font-style:italic;">
+      Sharvari Kamble
+    </p>
+
+    <p style="margin:6px 0;">
+      arXiv preprint, 2025
+    </p>
+
+    <p style="margin:6px 0;">
+      <a href="https://arxiv.org/abs/2506.11154"
+         target="_blank"
+         style="text-decoration:none; color:#1a73e8;">
+        [Paper]
+      </a>
+    </p>
+
+    <p style="margin-top:8px;">
+      A real-time webcam-based ASL recognition system using MediaPipe Holistic
+      and LSTM networks, achieving <b>86.7% validation accuracy</b> for letters
+      and functional words, demonstrating hardware-independent sign language
+      recognition.
+    </p>
+
+  </div>
+</div>
 
 
 Education
