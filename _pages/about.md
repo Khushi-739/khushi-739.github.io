@@ -17,11 +17,17 @@ My goal is to contribute to research that bridges AI theory and real-world impac
 
 News
 ------
-[June 2025]: My 1st research paper is published in arXiv, “SLRNet: A Real-Time LSTM-Based Sign Language Recognition System” code and paper is available <span style="color:blue;"><a href="https://arxiv.org/abs/2506.11154" target="_blank">here</a></span>.
+**[December 2025]**: <span style="color:blue;"><a href="https://arxiv.org/abs/2601.06046" target="_blank">**ISMS-CR**</a> is available on arXiv.</span>.
 
-**March 2025**: Started a research collaboration with Dr. Clément Coïc on Julia SciML open-source contribution project.
+**[December 2025]**: I served as a reviewer for the journal **IET Computer Vision (Wiley–IET)**.
 
-**October 2023**: Received project sponsorship worth approximately $300 USD from Mangal Agro, Buldhana for the Agricultural Drone project. 
+**[November 2025]**: Started a research collaboration with <span style="color:blue;"><a href="https://www.linkedin.com/in/hyunjae-gil-0abb45195/" target="_blank">**Prof. Hyunjae Gil** <a> on <span style="color:blue;"><a href="https://github.com/Khushi-739/vr-playground-handmapping" target="_blank">VR Playground Handmapping project.</span>
+
+**[June 2025]**: <span style="color:blue;"><a href="https://arxiv.org/abs/2506.11154" target="_blank">**SLRNet**</a> is available on arXiv.</span>.
+
+**[March 2025]**: Started a research collaboration with <span style="color:blue;"><a href="https://www.linkedin.com/in/clementcoic/" target="_blank">**Dr. Clément Coïc** <a> on Julia SciML open-source contribution project.
+
+**[October 2023]**: Secured **~USD 300** project sponsorship from **Mangal Agro for an Agricultural Drone project**.
 
 2025 Publications
 ------
