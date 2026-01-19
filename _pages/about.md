@@ -70,7 +70,8 @@ News
         [Code]
       </a>
     </p>
-
+  </div>
+</div>
     <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
 
   <!-- Left: Image -->
