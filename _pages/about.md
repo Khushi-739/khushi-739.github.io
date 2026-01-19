@@ -40,7 +40,7 @@ News
   <div style="flex:0 0 220px;">
     <img src="/images/methodology_flowchart.png"
          alt="SLRNet overview"
-         style="width:150%; border-radius:6px;">
+         style="width:200%; border-radius:6px;">
   </div>
 
   <!-- Right: Text -->
@@ -67,9 +67,6 @@ News
          target="_blank"
          style="text-decoration:none; color:#1a73e8;">
         [Paper]
-      </a>
-    </p>
-    <p style="margin:6px 0;">
       <a href="https://github.com/Khushi-739/SLRNet"
          target="_blank"
          style="text-decoration:none; color:#1a73e8;">
