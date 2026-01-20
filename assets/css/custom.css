@@ -8,3 +8,10 @@ h2 {
   font-size: 1.6em !important;
   font-weight: 700;
 }
+strong {
+  font-size: 1.05em;
+}
+
+em {
+  font-style: italic;
+}
