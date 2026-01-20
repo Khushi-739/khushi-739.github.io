@@ -44,16 +44,17 @@ I am on the job market this year and also considering direct PhD positions. I wo
 
   <div style="flex:1;">
 
-  <strong>SLRNet: A Real-Time LSTM-Based Sign Language Recognition System</strong>  
-  *Sharvari Kamble*  
+  <strong>SLRNet: A Real-Time LSTM-Based Sign Language Recognition System</strong><br>
+  <em>Sharvari Kamble</em><br>
 
-  arXiv preprint, 2025  
+  arXiv preprint, 2025<br>
 
-  [[Paper]](https://arxiv.org/abs/2506.11154)
-  [[Code]](https://github.com/Khushi-739/SLRNet)
+  <a href="https://arxiv.org/abs/2506.11154" style="text-decoration:none;">[Paper]</a>
+  <a href="https://github.com/Khushi-739/SLRNet" style="text-decoration:none;">[Code]</a>
 
   </div>
 </div>
+
 
 <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:28px;">
 
@@ -65,16 +66,17 @@ I am on the job market this year and also considering direct PhD positions. I wo
 
   <div style="flex:1;">
 
-  <strong>ISMS-CR: Integrated Safety Management System for Critical Infrastructure</strong>  
-  *Sharvari Kamble*, Arjun Dangle, Gargi Khurud, Om Kendre, Swati Bhatt  
+  <strong>ISMS-CR: Integrated Safety Management System for Critical Infrastructure</strong><br>
+  <em>Sharvari Kamble</em>, Arjun Dangle, Gargi Khurud, Om Kendre, Swati Bhatt<br>
 
-  arXiv preprint, 2025  
+  arXiv preprint, 2025<br>
 
-  [[Paper]](https://arxiv.org/abs/2601.06046)
-  [[Code]](https://github.com/Khushi-739/SLRNet)
+  <a href="https://arxiv.org/abs/2601.06046" style="text-decoration:none;">[Paper]</a>
+  <a href="https://github.com/Khushi-739/SLRNet" style="text-decoration:none;">[Code]</a>
 
   </div>
 </div>
+
 
 
 ## Education
