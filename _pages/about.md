@@ -18,25 +18,19 @@ I am always open to research discussions and collaborative opportunities—feel 
 I am on the job market this year and also considering direct PhD positions. I would be happy to discuss any opportunities that may be a good fit.  
 
 
-## News
+News
 
--   December 2025   — *ISMS-CR* is available on arXiv.  
-  [[Paper]](https://arxiv.org/abs/2601.06046)
+  December 2025   — [*ISMS-CR*](https://arxiv.org/abs/2601.06046) is available on arXiv.  
 
--   December 2025   — Served as a reviewer for   IET Computer Vision (Wiley–IET)  .
+  December 2025   — Served as a reviewer for IET Computer Vision (Wiley–IET)  .
 
--   November 2025   — Started a research collaboration with  
-  [Prof. Hyunjae Gil](https://www.linkedin.com/in/hyunjae-gil-0abb45195/)  
-  on the   VR Playground Handmapping   project.  
-  [[Code]](https://github.com/Khushi-739/vr-playground-handmapping)
+  November 2025   — Started a research collaboration with [Prof. Hyunjae Gil](https://www.linkedin.com/in/hyunjae-gil-0abb45195/)  on the [VR Playground Handmapping](https://github.com/Khushi-739/vr-playground-handmapping) project. 
 
--   June 2025   — *SLRNet* is available on arXiv.  
-  [[Paper]](https://arxiv.org/abs/2506.11154)
+  June 2025   — [*SLRNet*](https://arxiv.org/abs/2506.11154) is available on arXiv.  
 
--   March 2025   — Started a Julia SciML open-source research collaboration with  
-  [Dr. Clément Coïc](https://www.linkedin.com/in/clementcoic/).
+  March 2025   — Started a Julia SciML open-source research collaboration with [Dr. Clément Coïc](https://www.linkedin.com/in/clementcoic/).
 
--   October 2023   — Secured ~USD 300 project sponsorship from   Mangal Agro   for an   Agricultural Drone   project.
+  October 2023   — Secured ~USD 300 project sponsorship from Mangal Agro for an Agricultural Drone project.
 
 
 ## 2025 Publications
