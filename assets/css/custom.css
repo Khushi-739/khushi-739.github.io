@@ -6,7 +6,7 @@ body, h1, h3, h4, h5, h6, p, a, li, span, div, blockquote {
 /* Increase NEWS heading size */
 /* Section headings like NEWS, PUBLICATIONS */
 h2 {
-  font-size: 1.9em !important;   /* increase from 1.6em */
+  font-size: 1.6em !important;   /* increase from 1.6em */
   font-weight: 700;
   border-bottom: none !important;
   padding-bottom: 0 !important;
