@@ -38,7 +38,7 @@ News
 <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
 
   <!-- Image -->
-  <div style="flex:0 0 200px;">
+  <div style="flex:0 0 260px;">
     <img src="/images/methodology_flowchart.png"
          alt="SLRNet overview"
          style="width:260px; height:180px; object-fit:contain; border-radius:6px;">
@@ -80,7 +80,7 @@ News
 <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px;">
 
   <!-- Image -->
-  <div style="flex:0 0 200px;">
+  <div style="flex:0 0 260px;">
     <img src="/images/system_architecture.png"
          alt="ISMS-CR system architecture"
          style="width:260px; height:180px; object-fit:contain; border-radius:6px;">
