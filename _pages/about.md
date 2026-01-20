@@ -32,7 +32,7 @@ I am on the job market this year and also considering direct PhD positions. I wo
   October 2023   — Secured ~USD 300 project sponsorship from Mangal Agro for an Agricultural Drone project.
 
 
-## 2025 Publications
+## Publications
 
 <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:28px;">
 
