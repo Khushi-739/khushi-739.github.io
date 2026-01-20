@@ -12,23 +12,22 @@ My research interests lie at the intersection of Machine Learning, Computer Visi
 I have previously collaborated at Xu Lab, Carnegie Mellon University, advised by Prof. Min Xu, working under the guidance of Xiangrui (Taylor) Zeng on segmentation map registration for MRI images.
 Additionally, I collaborated with Dr. Clément Coïc (Siemens Healthineers) on modeling robotic systems using Julia SciML.
 
-My goal is to contribute to research that bridges AI theory and real-world impact through interdisciplinary collaboration. 
-I am always open to research discussions and collaborative opportunities—feel free to reach out via email if our interests align.
+My goal is to contribute to research that bridges AI theory and real-world impact through interdisciplinary collaboration. I am always open to research discussions and collaborative opportunities feel free to reach out via email if our interests align.
 
 I am on the job market this year and also considering direct PhD positions. I would be happy to discuss any opportunities that may be a good fit.  
 
 
-News
+## News
 
-  December 2025   — [*ISMS-CR*](https://arxiv.org/abs/2601.06046) is available on arXiv.  
+  December 2025 — <span style="text-decoration:none;">[*ISMS-CR*](https://arxiv.org/abs/2601.06046)</span> is available on arXiv.
 
   December 2025   — Served as a reviewer for IET Computer Vision (Wiley–IET)  .
 
-  November 2025   — Started a research collaboration with [Prof. Hyunjae Gil](https://www.linkedin.com/in/hyunjae-gil-0abb45195/)  on the [VR Playground Handmapping](https://github.com/Khushi-739/vr-playground-handmapping) project. 
+  November 2025   — Started a research collaboration with <span style="text-decoration:none;">[Prof. Hyunjae Gil](https://www.linkedin.com/in/hyunjae-gil-0abb45195/)</span>  on the <span style="text-decoration:none;">[VR Playground Handmapping](https://github.com/Khushi-739/vr-playground-handmapping)</span> project. 
 
-  June 2025   — [*SLRNet*](https://arxiv.org/abs/2506.11154) is available on arXiv.  
+  June 2025   — <span style="text-decoration:none;">[*SLRNet*](https://arxiv.org/abs/2506.11154)</span> is available on arXiv.  
 
-  March 2025   — Started a Julia SciML open-source research collaboration with [Dr. Clément Coïc](https://www.linkedin.com/in/clementcoic/).
+  March 2025   — Started a Julia SciML open-source research collaboration with <span style="text-decoration:none;">[Dr. Clément Coïc](https://www.linkedin.com/in/clementcoic/)</span>.
 
   October 2023   — Secured ~USD 300 project sponsorship from Mangal Agro for an Agricultural Drone project.
 
