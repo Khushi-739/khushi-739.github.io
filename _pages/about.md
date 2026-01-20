@@ -1,46 +1,43 @@
 ---
 permalink: /
-title: "About"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a senior undergraduate pursuing a **Bachelor of Engineering in Artificial Intelligence and Data Science** at the **University of Mumbai**. I have also completed a **Technical High School Diploma in Computer Engineering** from **K. J. Somaiya Polytechnic, Mumbai**.
+I am a senior undergraduate pursuing a Bachelor of Engineering in Artificial Intelligence and Data Science at the University of Mumbai. I have also completed a Technical High School Diploma in Computer Engineering from K. J. Somaiya Polytechnic, Mumbai.
 
-My research interests lie at the intersection of **Machine Learning, Computer Vision, and Medical AI**, with a growing focus on **AI-driven automation** and **scientific computing**.  
-I have previously collaborated at **Xu Lab, Carnegie Mellon University**, advised by **Prof. Min Xu**, working under the guidance of **Xiangrui (Taylor) Zeng** on **segmentation map registration for MRI images**.  
-Additionally, I collaborated with **Dr. Clément Coïc (Siemens Healthineers)** on **modeling robotic systems using Julia SciML**.
+My research interests lie at the intersection of Machine Learning, Computer Vision, and Medical AI, with a growing focus on AI-driven automation and scientific computing.
+I have previously collaborated at Xu Lab, Carnegie Mellon University, advised by Prof. Min Xu, working under the guidance of Xiangrui (Taylor) Zeng on segmentation map registration for MRI images.
+Additionally, I collaborated with Dr. Clément Coïc (Siemens Healthineers) on modeling robotic systems using Julia SciML.
 
-My goal is to contribute to research that bridges **AI theory and real-world impact** through **interdisciplinary collaboration**.  
-**I am always open to research discussions and collaborative opportunities—feel free to reach out via email if our interests align.**
+My goal is to contribute to research that bridges AI theory and real-world impact through interdisciplinary collaboration. 
+I am always open to research discussions and collaborative opportunities—feel free to reach out via email if our interests align.
 
-**I am on the job market this year and also considering direct PhD positions. I would be happy to discuss any opportunities that may be a good fit.**
+I am on the job market this year and also considering direct PhD positions. I would be happy to discuss any opportunities that may be a good fit.  
 
----
 
 ## News
 
-- **December 2025** — *ISMS-CR* is available on arXiv.  
+-   December 2025   — *ISMS-CR* is available on arXiv.  
   [[Paper]](https://arxiv.org/abs/2601.06046)
 
-- **December 2025** — Served as a reviewer for **IET Computer Vision (Wiley–IET)**.
+-   December 2025   — Served as a reviewer for   IET Computer Vision (Wiley–IET)  .
 
-- **November 2025** — Started a research collaboration with  
+-   November 2025   — Started a research collaboration with  
   [Prof. Hyunjae Gil](https://www.linkedin.com/in/hyunjae-gil-0abb45195/)  
-  on the **VR Playground Handmapping** project.  
+  on the   VR Playground Handmapping   project.  
   [[Code]](https://github.com/Khushi-739/vr-playground-handmapping)
 
-- **June 2025** — *SLRNet* is available on arXiv.  
+-   June 2025   — *SLRNet* is available on arXiv.  
   [[Paper]](https://arxiv.org/abs/2506.11154)
 
-- **March 2025** — Started a Julia SciML open-source research collaboration with  
+-   March 2025   — Started a Julia SciML open-source research collaboration with  
   [Dr. Clément Coïc](https://www.linkedin.com/in/clementcoic/).
 
-- **October 2023** — Secured ~USD 300 project sponsorship from **Mangal Agro** for an **Agricultural Drone** project.
+-   October 2023   — Secured ~USD 300 project sponsorship from   Mangal Agro   for an   Agricultural Drone   project.
 
----
 
 ## 2025 Publications
 
@@ -86,16 +83,15 @@ My goal is to contribute to research that bridges **AI theory and real-world imp
   </div>
 </div>
 
----
 
 ## Education
 
-**University of Mumbai**, India  
+  University of Mumbai  , India  
 B.E. in Artificial Intelligence and Data Science  
 Aug. 2023 – June 2026  
-GPA: **8.99 / 10.00**
+GPA:   8.99 / 10.00  
 
-**K. J. Somaiya Polytechnic**, India  
+  K. J. Somaiya Polytechnic  , India  
 High School Technical Diploma in Computer Engineering  
 Jan. 2020 – June 2023  
-Percentage: **88.9 / 100**
+Percentage:   88.9 / 100  
