@@ -41,7 +41,7 @@ News
   <div style="flex:0 0 200px;">
     <img src="/images/methodology_flowchart.png"
          alt="SLRNet overview"
-         style="width:300px; height:180px; object-fit:contain; border-radius:6px;">
+         style="width:300px; height:300px; object-fit:contain; border-radius:6px;">
   </div>
 
   <!-- Text -->
