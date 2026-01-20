@@ -7,6 +7,8 @@ body, h1, h3, h4, h5, h6, p, a, li, span, div, blockquote {
 h2 {
   font-size: 1.6em !important;
   font-weight: 700;
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
 }
 strong {
   font-size: 1.05em;
