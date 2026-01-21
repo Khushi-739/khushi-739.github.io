@@ -17,7 +17,7 @@ em {
 } 
 /* Keep sidebar fixed, but shift slightly toward center */
 .sidebar {
-  margin-left: 40px;
+  margin-left: 30px;
 }
 
 /* Reduce space between sidebar and main content */
