@@ -15,23 +15,16 @@ strong {
 em {
   font-style: italic;
 } 
-/* Sidebar stays fixed and aligned to the left */
+/* Keep sidebar fixed, but shift slightly toward center */
 .sidebar {
   position: fixed;   /* keeps sidebar in place */
-  left: 40px;        /* shift slightly toward center */
-  width: 300px;      /* match actual sidebar width */
-  margin-left: 0;    /* reset any previous margin */
+  left: 40px;        /* instead of 0, nudges sidebar right */
+  width: 300px;      /* match original width */
 }
 
-/* Main content starts after sidebar */
+/* Shift main content so it starts after sidebar */
 .page__content {
-  max-width: 900px;        /* optional: adjust to fit your layout */
+  max-width: 900px;
   padding: 20px;
-  margin-left: 360px;      /* sidebar width + offset (300 + 60) */
-}
-
-/* Optional: center the whole page on large screens */
-body {
-  max-width: 1200px;
-  margin: 0 auto;
+  margin-left: 360px; /* sidebar width + left offset */
 }
