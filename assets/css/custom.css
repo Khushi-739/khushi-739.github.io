@@ -15,24 +15,14 @@ strong {
 em {
   font-style: italic;
 } 
-/* Keep sidebar fixed, but shift slightly toward center */
-/* Shift sidebar slightly toward center */
-.sidebar {
-  position: fixed;   /* keeps sidebar in place */
-  left: 40px;        /* nudges sidebar right */
-  width: 300px;      /* original sidebar width */
-}
-
-/* Shift main content to align with sidebar */
+/* Shift main content slightly right to align with profile */
 .page__content {
-  max-width: 900px;  
+  max-width: 800px;
   padding: 20px;
-  margin-left: 360px;  /* sidebar width + offset (300 + 60) */
+  margin-left: 2.5rem/* try 1.5rem–2.5rem */
 }
-
-/* Optional: center page on larger screens */
-body {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
+/* Shift left sidebar slightly toward center */
+/* Move sidebar slightly toward center */
+.sidebar {
+  margin-left: 3rem;
+} 
