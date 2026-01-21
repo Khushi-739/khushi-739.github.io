@@ -28,7 +28,7 @@ My research focuses on principled and scalable AI methods that bridge learning t
   Dec 2025  Served as a reviewer for IET Computer Vision (Wiley–IET).
 
   <span style="white-space:nowrap;">
-Nov 2025 Started a research collaboration with [Prof. Hyunjae Gil](https://www.linkedin.com/in/hyunjae-gil-0abb45195/) on the [VR Playground Handmapping](https://github.com/Khushi-739/vr-playground-handmapping) project.
+Nov 2025 Started a research collaboration with [Prof. Hyunjae Gil](https://www.linkedin.com/in/hyunjae-gil-0abb45195/) on the [*VR Playground Handmapping*](https://github.com/Khushi-739/vr-playground-handmapping) project.
 </span>
 
   Jun 2025  <span style="text-decoration:none;">[*SLRNet*](https://arxiv.org/abs/2506.11154)</span> is available on arXiv.  
