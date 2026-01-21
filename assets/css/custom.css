@@ -25,11 +25,3 @@ em {
   margin-left: 320px;
 }
 /* Reduce left page padding that causes the big gap */
-.page__inner-wrap {
-  padding-left: 40px;
-}
-/* Final nudge: move entire page slightly right */
-.layout--single .page {
-  transform: translateX(40px);
-}
-
