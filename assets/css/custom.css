@@ -2,6 +2,9 @@
 body, h1, h2,h3, h4, h5, h6, p, a, li, span, div, blockquote {
     font-size: 16px !important;
     line-height: 1.5 !important;
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
 }
 /* Increase NEWS heading size */
 
