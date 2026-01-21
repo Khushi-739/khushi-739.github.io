@@ -15,14 +15,23 @@ strong {
 em {
   font-style: italic;
 } 
-/* Shift main content slightly right to align with profile */
-.page__content {
-  max-width: 800px;
-  padding: 20px;
-  margin-left: 2.5rem/* try 1.5rem–2.5rem */
-}
-/* Shift left sidebar slightly toward center */
-/* Move sidebar slightly toward center */
+/* Sidebar stays fixed and aligned to the left */
 .sidebar {
-  margin-left: 3rem;
-} 
+  position: fixed;   /* keeps sidebar in place */
+  left: 40px;        /* shift slightly toward center */
+  width: 300px;      /* match actual sidebar width */
+  margin-left: 0;    /* reset any previous margin */
+}
+
+/* Main content starts after sidebar */
+.page__content {
+  max-width: 900px;        /* optional: adjust to fit your layout */
+  padding: 20px;
+  margin-left: 360px;      /* sidebar width + offset (300 + 60) */
+}
+
+/* Optional: center the whole page on large screens */
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+}
