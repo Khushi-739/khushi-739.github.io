@@ -15,14 +15,16 @@ strong {
 em {
   font-style: italic;
 } 
-/* Shift main content slightly right to align with profile */
-.page__content {
-  max-width: 800px;
-  padding: 20px;
-  margin-left: 2.5rem/* try 1.5rem–2.5rem */
-}
-/* Shift left sidebar slightly toward center */
-/* Move sidebar slightly toward center */
+/* Keep sidebar fixed, but shift slightly toward center */
 .sidebar {
-  margin-left: 3rem;
+  position: fixed;   /* keeps sidebar in place */
+  left: 40px;        /* instead of 0, nudges sidebar right */
+  width: 300px;      /* match original width */
+}
+
+/* Shift main content so it starts after sidebar */
+.page__content {
+  max-width: 900px;
+  padding: 20px;
+  margin-left: 360px; /* sidebar width + left offset */
 }
