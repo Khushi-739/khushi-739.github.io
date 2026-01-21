@@ -17,10 +17,10 @@ em {
 } 
 /* Shift main content slightly right to align with profile */
 .page__content {
-  padding-left: 2.5rem;/* try 1.5rem–2.5rem */
+  padding-left: 3rem;/* try 1.5rem–2.5rem */
 }
 /* Shift left sidebar slightly toward center */
 .sidebar {
-  padding-left: 2.5rem;   /* try 1.5rem–2.5rem */
+  padding-left: 3rem;   /* try 1.5rem–2.5rem */
 }
 
