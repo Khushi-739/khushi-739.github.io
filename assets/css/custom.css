@@ -22,9 +22,9 @@ em {
 
 /* Reduce space between sidebar and main content */
 .page__content {
-  margin-left: 320px;
+  margin-left: 350px;
 }
 /* Reduce left page padding that causes the big gap */
 .page__inner-wrap {
-  padding-left: 40px;
+  padding-left: 50px;
 }
