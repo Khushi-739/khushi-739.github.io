@@ -15,3 +15,7 @@ strong {
 em {
   font-style: italic;
 } 
+/* Shift main content slightly right to align with profile */
+.page__content {
+  padding-left: 2rem;  /* try 1.5rem–2.5rem */
+}
