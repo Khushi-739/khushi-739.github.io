@@ -17,9 +17,9 @@ I am seeking opportunities for direct PhD or integrated MS‑PhD positions for F
 
   Dec 2025  <span style="text-decoration:none;">[*ISMS-CR*](https://arxiv.org/abs/2601.06046)</span> is available on arXiv.
 
-  Dec 2025  Served as a reviewer for IET Computer Vision (Wiley–IET)  .
+  Dec 2025  Served as a reviewer for IET Computer Vision (Wiley–IET).
 
-  Nov 2025  Started a research collaboration with <span style="text-decoration:none;">[Prof. Hyunjae Gil](https://www.linkedin.com/in/hyunjae-gil-0abb45195/)</span>  on the <span style="text-decoration:none;">[VR Playground Handmapping](https://github.com/Khushi-739/vr-playground-handmapping)</span> project. 
+  Nov 2025  Started a research collaboration with <span style="text-decoration:none;">[Prof. Hyunjae Gil](https://www.linkedin.com/in/hyunjae-gil-0abb45195/)</span>  on the <span style="text-decoration:none;">[VR Playground Handmapping project.](https://github.com/Khushi-739/vr-playground-handmapping)</span>
 
   Jun 2025  <span style="text-decoration:none;">[*SLRNet*](https://arxiv.org/abs/2506.11154)</span> is available on arXiv.  
 
