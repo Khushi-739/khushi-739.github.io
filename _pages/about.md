@@ -8,18 +8,18 @@ redirect_from:
 
 I am a senior undergraduate at the University of Mumbai, pursuing a Bachelor of Engineering in Artificial Intelligence and Data Science, with a Technical High School Diploma in Computer Engineering from K. J. Somaiya Polytechnic, Mumbai.
 
-My research focuses on Machine Learning, Computer Vision, and Medical AI, with an emphasis on AI-driven automation and scientific computing. I have collaborated with Xu Lab at Carnegie Mellon University under Prof. Min Xu and Xiangrui (Taylor) Zeng on segmentation map registration for MRI images, and with Dr. Clément Coïc (Siemens Healthineers) on modeling robotic systems using Julia SciML. Currently, I am working in collaboration with Prof. Hyunjae Gil on Vision‑IMU‑Based Virtual Environment for Children.
+My research focuses on Machine Learning, Computer Vision, and Medical AI, with an emphasis on AI driven automation and scientific computing. I have collaborated with Xu Lab at Carnegie Mellon University under Prof. Min Xu and Xiangrui (Taylor) Zeng on segmentation map registration for MRI images, and with Dr. Clément Coïc (Siemens Healthineers) on modeling robotic systems using Julia SciML. Currently, I am working in collaboration with Prof. Hyunjae Gil on Vision‑IMU‑Based Virtual Environment for Children.
 
 I am seeking opportunities for direct PhD or integrated MS‑PhD positions for Fall 2026. Please feel free to reach out via email for collaboration or discussion of opportunities. 
 
 ## Research Interest
-My research focuses on principled and scalable AI methods that bridge learning theory and real-world deployment, with applications in robotics, healthcare, and intelligent virtual environments. Key interests include:
+My research focuses on principled and scalable AI methods that bridge learning theory and real world deployment, with applications in robotics, healthcare, and intelligent virtual environments. Key interests include:
 
-- Embodied and Humanoid Robotics - Modeling, simulation, and learning of embodied agents, with emphasis on high-fidelity simulation (e.g., Omniverse) for perception, control, and adaptive behavior.
+- Embodied and Humanoid Robotics - Modeling, simulation, and learning of embodied agents, with emphasis on high fidelity simulation (e.g., Omniverse) for perception, control, and adaptive behavior.
 
-- Medical AI and Computational Biology - Deep learning for modeling complex biological and anatomical systems, particularly medical imaging, neural structure analysis, and data-driven oncology.
+- Medical AI and Computational Biology - Deep learning for modeling complex biological and anatomical systems, particularly medical imaging, neural structure analysis, and data driven oncology.
 
-- Immersive and Intelligent Simulation Systems - Design of interactive 3D environments integrating autonomous agents, learning-based intelligence, and task-specific language models.
+- Immersive and Intelligent Simulation Systems - Design of interactive 3D environments integrating autonomous agents, learning based intelligence, and task specific language models.
 
 ## News
 
@@ -33,7 +33,7 @@ Nov 2025 Started a research collaboration with [Prof. Hyunjae Gil](https://www.l
 
   Jun 2025  <span style="text-decoration:none;">[*SLRNet*](https://arxiv.org/abs/2506.11154)</span> is available on arXiv.  
 
-  Mar 2025  Started a Julia SciML open-source research collaboration with <span style="text-decoration:none;">[Dr. Clément Coïc](https://www.linkedin.com/in/clementcoic/)</span>.
+  Mar 2025  Started a Julia SciML open source research collaboration with <span style="text-decoration:none;">[Dr. Clément Coïc](https://www.linkedin.com/in/clementcoic/)</span>.
 
   Oct 2023  Secured ~USD 300 project sponsorship from Mangal Agro for an Agricultural Drone project.
 
