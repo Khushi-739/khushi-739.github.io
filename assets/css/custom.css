@@ -18,7 +18,7 @@ em {
 /* Keep sidebar fixed, but shift slightly toward center */
 .sidebar {
   position: fixed;   /* keeps sidebar in place */
-  left: 40px;        /* instead of 0, nudges sidebar right */
+  left: 100px;        /* instead of 0, nudges sidebar right */
   width: 300px;      /* match original width */
 }
 
