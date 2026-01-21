@@ -13,14 +13,13 @@ My research focuses on Machine Learning, Computer Vision, and Medical AI, with a
 I am seeking opportunities for direct PhD or integrated MS‑PhD positions for Fall 2026. Please feel free to reach out via email for collaboration or discussion of opportunities. 
 
 ## Research Interest
-My research focuses on developing principled and scalable AI systems that bridge machine learning theory and real-world impact, with emphasis on robotics, healthcare, and intelligent virtual environments. My primary interests include:
+My research focuses on principled and scalable AI methods that bridge learning theory and real-world deployment, with applications in robotics, healthcare, and intelligent virtual environments. Key interests include:
 
-- Humanoid Robotics and Embodied AI - Modeling, simulation, and learning of humanoid systems, with interest in training embodied agents in high-fidelity simulation environments (e.g., Omniverse) for intelligent perception, control, and adaptation.
+- Embodied and Humanoid Robotics - Modeling, simulation, and learning of embodied agents, with emphasis on high-fidelity simulation (e.g., Omniverse) for perception, control, and adaptive behavior.
 
-- Medical AI and Computational Biology - Applying deep learning to understand complex biological and anatomical systems, including brain structure and neural processes, with particular interest in medical imaging and data-driven cancer research.
+- Medical AI and Computational Biology - Deep learning for modeling complex biological and anatomical systems, particularly medical imaging, neural structure analysis, and data-driven oncology.
 
-- Immersive 3D Simulation Platforms - Developing interactive 3D and immersive environments augmented with learning-based intelligence, autonomous agents, and task-specific language models.
-
+- Immersive and Intelligent Simulation Systems - Design of interactive 3D environments integrating autonomous agents, learning-based intelligence, and task-specific language models.
 
 ## News
 
