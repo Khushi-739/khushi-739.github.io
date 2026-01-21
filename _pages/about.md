@@ -21,6 +21,8 @@ I am seeking opportunities for direct PhD or integrated MS‑PhD positions for F
 
   Nov 2025  Started a research collaboration with <span style="text-decoration:none;">[Prof. Hyunjae Gil](https://www.linkedin.com/in/hyunjae-gil-0abb45195/)</span>  on the <span style="text-decoration:none;">[VR Playground Handmapping project.](https://github.com/Khushi-739/vr-playground-handmapping)</span>
 
+  Nov 2025 Started a research collaboration with <a href="[YOUR_LINK](https://www.linkedin.com/in/hyunjae-gil-0abb45195/)">Prof. Hyunjae Gil</a> on the <span style="white-space: nowrap;">VR Playground Handmapping project </span>.
+
   Jun 2025  <span style="text-decoration:none;">[*SLRNet*](https://arxiv.org/abs/2506.11154)</span> is available on arXiv.  
 
   Mar 2025  Started a Julia SciML open-source research collaboration with <span style="text-decoration:none;">[Dr. Clément Coïc](https://www.linkedin.com/in/clementcoic/)</span>.
