@@ -24,3 +24,7 @@ em {
 .page__content {
   margin-left: 320px;
 }
+/* Reduce left page padding that causes the big gap */
+.page__inner-wrap {
+  padding-left: 40px;
+}
