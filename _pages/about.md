@@ -59,7 +59,7 @@ Nov 2025 Started a research collaboration with [Prof. Hyunjae Gil](https://www.l
   <a href="https://github.com/Khushi-739/SLRNet" style="text-decoration:none;">[Code]</a>
   <a href="https://github.com/Khushi-739/khushi-739.github.io/blob/master/files/2506.11154v1.pdf" style="text-decoration:none;">[PDF]</a>
 </div>
-
+</div>
 
 <div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:28px;">
 
