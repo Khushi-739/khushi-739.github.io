@@ -19,7 +19,7 @@ My research focuses on developing principled and scalable AI systems that bridge
 
 - Medical AI and Computational Biology - Applying deep learning to understand complex biological and anatomical systems, including brain structure and neural processes, with particular interest in medical imaging and data-driven cancer research.
 
-- Intelligent 3D, AR/VR, and Simulation Environments - Developing interactive 3D and immersive environments augmented with learning-based intelligence, autonomous agents, and task-specific language models.
+- Immersive 3D Simulation Platforms - Developing interactive 3D and immersive environments augmented with learning-based intelligence, autonomous agents, and task-specific language models.
 
 
 ## News
