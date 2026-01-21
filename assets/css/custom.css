@@ -17,7 +17,9 @@ em {
 } 
 /* Shift main content slightly right to align with profile */
 .page__content {
-  max-width: 800px;/* try 1.5rem–2.5rem */
+  max-width: 800px;
+  padding: 20px;
+  margin-left: 320px;/* try 1.5rem–2.5rem */
 }
 /* Shift left sidebar slightly toward center */
 /* Move sidebar slightly toward center */
