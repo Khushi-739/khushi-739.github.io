@@ -22,6 +22,6 @@ em {
 
 /* Reduce space between sidebar and main content */
 .page__content {
-  margin-left: 400px;
+  margin-left: 320px;
 }
 /* Reduce left page padding that causes the big gap */
