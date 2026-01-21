@@ -17,5 +17,5 @@ em {
 } 
 /* Shift main content slightly right to align with profile */
 .page__content {
-  padding-left: 2.5rem;  /* try 1.5rem–2.5rem */
+  max-width: 780px;/* try 1.5rem–2.5rem */
 }
