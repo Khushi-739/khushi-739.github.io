@@ -16,15 +16,23 @@ em {
   font-style: italic;
 } 
 /* Keep sidebar fixed, but shift slightly toward center */
+/* Shift sidebar slightly toward center */
 .sidebar {
   position: fixed;   /* keeps sidebar in place */
-  left: 100px;        /* instead of 0, nudges sidebar right */
-  width: 300px;      /* match original width */
+  left: 40px;        /* nudges sidebar right */
+  width: 300px;      /* original sidebar width */
 }
 
-/* Shift main content so it starts after sidebar */
+/* Shift main content to align with sidebar */
 .page__content {
-  max-width: 900px;
+  max-width: 900px;  
   padding: 20px;
-  margin-left: 360px; /* sidebar width + left offset */
+  margin-left: 360px;  /* sidebar width + offset (300 + 60) */
 }
+
+/* Optional: center page on larger screens */
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
