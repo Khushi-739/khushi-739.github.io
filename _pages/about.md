@@ -83,16 +83,3 @@ Nov 2025 Started a research collaboration with [Prof. Hyunjae Gil](https://www.l
   </div>
 </div>
 
-
-
-## Education
-
-  University of Mumbai  , India  
-B.E. in Artificial Intelligence and Data Science  
-Aug. 2023 – June 2026  
-GPA:   8.99 / 10.00  
-
-  K. J. Somaiya Polytechnic  , India  
-High School Technical Diploma in Computer Engineering  
-Jan. 2020 – June 2023  
-Percentage:   88.9 / 100  
