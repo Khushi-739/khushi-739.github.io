@@ -19,10 +19,11 @@
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     {% if author.cv %}
-<a class="btn btn--primary btn--small" href="{{ author.cv }}" target="_blank">
-  Download CV
-</a>
+<p class="author__cv">
+  <a href="{{ author.cv }}" target="_blank">CV</a>
+</p>
 {% endif %}
+
 
   </div>
 
