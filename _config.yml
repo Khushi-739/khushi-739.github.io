@@ -33,6 +33,11 @@ author:
   employer         : "University of Mumbai"
   uri              : # URL
   email            : "khushi.kamble739@gmail.com" 
+    links:
+    - label: "CV"
+      icon: "fas fa-file-pdf"
+      url: "/files/resume_final.pdf"
+
 
   # Academic websites
   academia         : # URL
@@ -66,7 +71,6 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "sharvari-kamble-"
-  cv               : "/files/resume_final.pdf"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
