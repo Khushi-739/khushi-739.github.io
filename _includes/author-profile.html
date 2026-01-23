@@ -60,12 +60,13 @@
         <li><a href="{{ author.semantic }}"><i class="ai ai-semantic-scholar ai-fw icon-pad-right"></i>Semantic Scholar</a></li>
       {% endif %}
       {% if author.cv %}
-  <li>
-    <a href="{{ author.cv }}">
-      <i class="fas fa-file-pdf"></i>
-    </a>
-  </li>
+<li>
+  <a href="{{ author.cv }}">
+    <i class="fas fa-file-pdf ai-fw icon-pad-right" aria-hidden="true"></i>CV
+  </a>
+</li>
 {% endif %}
+
 
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw icon-pad-right"></i>Impactstory</a></li>
