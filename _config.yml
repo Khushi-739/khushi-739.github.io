@@ -24,16 +24,16 @@ nav: null
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "profile.png"
   name             : "Sharvari Kamble"
-  pronouns         : # example: "she/her"  
+  pronouns         :
   bio              : "Artificial Intelligence & Data Science student @ MU"
   location         : "Mumbai, India"
   employer         : "University of Mumbai"
-  uri              : # URL
-  email            : "khushi.kamble739@gmail.com" 
-    links:
+  uri              :
+  email            : "khushi.kamble739@gmail.com"
+
+  links:
     - label: "CV"
       icon: "fas fa-file-pdf"
       url: "/files/resume_final.pdf"
