@@ -8,7 +8,7 @@ redirect_from:
 
 I am a senior undergraduate at the University of Mumbai, pursuing a Bachelor of Engineering in Artificial Intelligence and Data Science, with a Technical High School Diploma in Computer Engineering from K. J. Somaiya Polytechnic, Mumbai.
 
-My research focuses on Machine Learning, Computer Vision, and Medical AI, with an emphasis on AI driven automation and scientific computing. I have collaborated with Xu Lab at Carnegie Mellon University under Prof. Min Xu and Dr. Xiangrui (Taylor) Zeng on segmentation map registration for MRI images, and with Dr. Clément Coïc (Siemens Healthineers) on modeling robotic systems using Julia SciML. Currently, I am working in collaboration with Prof. Hyunjae Gil on Vision‑IMU‑Based Virtual Environment for Children.
+My research focuses on Machine Learning, Computer Vision, and Medical AI, with an emphasis on AI driven automation and scientific computing. I have collaborated with Xu Lab at Carnegie Mellon University under Prof. Min Xu and Dr. Xiangrui (Taylor) Zeng on segmentation map registration for MRI images, and with Dr. Clément Coïc (Siemens Healthineers) on modeling robotic systems using Julia SciML. Currently, I am working in collaboration with Prof. Hyunjae Gil on Vision IMU Based Virtual Environment for Children.
 
 I am seeking opportunities for direct PhD or integrated MS‑PhD positions for Fall 2026. Please feel free to reach out via email for collaboration or discussion of opportunities. 
 
